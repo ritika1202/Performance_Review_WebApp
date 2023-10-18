@@ -1,0 +1,14 @@
+.sideBar {
+    bottom: 0;
+    top: 0;
+    position: sticky;
+}
+
+.sideBarTab:hover {
+    background-color: #464a5d !important;
+}
+
+.active {
+    background-color: #464a5d !important;
+    border: 0.5px solid white !important;
+}

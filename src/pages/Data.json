@@ -1,0 +1,44 @@
+{
+ "employees_list" : 
+        [
+            {
+                "emp_name" : "Prasana Ravichandran",
+                "emp_id" : 2621,
+                "emp_prj" : "Sysco Personalization"
+            },
+            {
+                "emp_name" : "Prathima R M ",
+                "emp_id" : 2622,
+                "emp_prj" : "USF ALC"
+            },
+            {
+                "emp_name" : "Hariharan Lakshminarasimhan Hariharan Lakshminarasimhan",
+                "emp_id" : 2623,
+                "emp_prj" : "USF ALC"
+            },
+            {
+                "emp_name" : "Anthati Naveenkumar",
+                "emp_id" : 2624,
+                "emp_prj" : "Sysco Personalization"
+            },
+            {
+                "emp_name" : "Gokulalakshmi Ragupathi",
+                "emp_id" : 2625,
+                "emp_prj" : "Sysco Personalization"
+            },
+            {
+                "emp_name" : "Parvathi Devaraj",
+                "emp_id" : 2626,
+                "emp_prj" : "Sysco Personalization"
+            }
+        ],
+    "chart" : {
+        "prj_chart" : {
+            "USF ALC":{"in_progress":9,"completed":4,"yet_to_do":5},
+            "Sysco Personalization":{"in_progress":12,"completed":21,"yet_to_do":44},
+            "Sysco Periscope":{"in_progress":9,"completed":6,"yet_to_do":30},
+            "Sysco OGR":{"in_progress":6,"completed":11, "yet_to_do":17},
+            "NotAssigned":{"in_progress":7,"completed":2,"yet_to_do":7}
+                        }
+    }
+}

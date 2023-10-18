@@ -1,0 +1,48 @@
+{
+
+    "USF ALC":
+       { "Training Programs/Courss":{"in_progress":42,"completed":10,"yet_to_do":80},
+        "Certification":{"in_progress":51,"completed":10,"yet_to_do":58},
+        "Webinar":{"in_progress":52,"completed":30,"yet_to_do":20},
+        "Blog":{"in_progress":12,"completed":18,"yet_to_do":20},
+        "Asset Creation /Maintenance /Support":{"in_progress":32,"completed":30,"yet_to_do":50},
+        "POC on Challenges /Pain points in Food distribution industryorChatGPT":{"in_progress":16,"completed":31,"yet_to_do":20},
+        "Support for proposal decks":{"in_progress":22,"completed":40,"yet_to_do":30}
+    },
+    "Sysco Personalization":
+    { "Training Programs/Courses":{"in_progress":22,"completed":40,"yet_to_do":30},
+     "Certification":{"in_progress":1,"completed":20,"yet_to_do":31},
+     "Webinar":{"in_progress":24,"completed":10,"yet_to_do":70},
+     "Blog":{"in_progress":42,"completed":18,"yet_to_do":80},
+     "Asset Creation/Maintenance/Support":{"in_progress":22,"completed":20,"yet_to_do":20},
+     "POC on Challenges/Pain points in Food distribution industryorChatGPT":{"in_progress":17,"completed":50,"yet_to_do":31},
+     "Support for proposal decks":{"in_progress":21,"completed":16,"yet_to_do":10}
+ },
+ "Sysco Periscope":
+ { "Training Programs/Courses":{"in_progress":10,"completed":25,"yet_to_do":10},
+  "Certification":{"in_progress":42,"completed":10,"yet_to_do":80},
+  "Webinar":{"in_progress":2,"completed":30,"yet_to_do":70},
+  "Blog":{"in_progress":22,"completed":40,"yet_to_do":30},
+  "Asset Creation/Maintenance/Support":{"in_progress":17,"completed":50,"yet_to_do":31},
+  "POC on Challenges/Pain points in Food distribution industryorChatGPT":{"in_progress":19,"completed":31,"yet_to_do":0},
+  "Support for proposal decks":{"in_progress":51,"completed":15,"yet_to_do":10}
+},
+"Sysco OGR":
+{ "Training Programs/Courses":{"in_progress":42,"completed":10,"yet_to_do":80},
+ "Certification":{"in_progress":17,"completed":50,"yet_to_do":31},
+ "Webinar":{"in_progress":22,"completed":40,"yet_to_do":30},
+ "Blog":{"in_progress":21,"completed":20,"yet_to_do":40},
+ "Asset Creation/Maintenance/Support":{"in_progress":42,"completed":50,"yet_to_do":80},
+ "POC on Challenges/Pain points in Food distribution industryorChatGPT":{"in_progress":52,"completed":17,"yet_to_do":80},
+ "Support for proposal decks":{"in_progress":10,"completed":41,"yet_to_do":20}
+},
+"NotAssigned":
+{ "Training Programs/Courses":{"in_progress":10,"completed":4,"yet_to_do":20},
+ "Certification":{"in_progress":16,"completed":20,"yet_to_do":11},
+ "Webinar":{"in_progress":2,"completed":10,"yet_to_do":10},
+ "Blog":{"in_progress":22,"completed":40,"yet_to_do":30},
+ "Asset Creation/Maintenance/Support":{"in_progress":32,"completed":10,"yet_to_do":50},
+ "POC on Challenges/Pain points in Food distribution industryorChatGPT":{"in_progress":11,"completed":15,"yet_to_do":30},
+ "Support for proposal decks":{"in_progress":12,"completed":18,"yet_to_do":20}
+}
+}

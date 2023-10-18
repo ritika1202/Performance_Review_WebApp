@@ -1,0 +1,62 @@
+.performance-tracker{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+    padding-bottom: 18px;
+    }
+    
+    .project_header
+    {
+        margin-top: 20px;
+        margin-bottom: 20px; 
+        font-family: Arial, sans-serif;
+        display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #58585a;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color:"#F0FFFF";
+    }
+    .project-graph-title
+    {   
+        margin-top: 50px; 
+        font-family: Arial, sans-serif;
+        display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #58585a;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color:"#F0FFFF";
+    }
+    
+
+    .project-list
+    {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+         padding-left: 750px; 
+     }
+     select{
+        
+        padding-inline: 10px;
+        padding-inline-end: 20px;
+        color: #fff;
+        height: 40px;
+        background-color:  #6c757d;
+        border-radius: 8px;
+        width: 220px !important;
+        
+     }
+    
